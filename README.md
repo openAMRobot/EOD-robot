@@ -94,9 +94,9 @@ All **electronics, navigation, and software components** are planned to be:
 
 ## Images
 
-![EOD Robot View 1](./docs/EOD_robot_1.jpg)
-![EOD Robot View 2](./docs/EOD_robot_2.jpg)
-![EOD Robot View 3](./docs/EOD_robot_3.jpg)
+![EOD Robot View 1](./docs/EOD_robot_1.png)
+![EOD Robot View 2](./docs/EOD_robot_2.png)
+![EOD Robot View 3](./docs/EOD_robot_3.png)
 
 ---
 
