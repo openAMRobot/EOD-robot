@@ -4,7 +4,7 @@
 
 This repository contains a **Proof of Concept (PoC)** mechanical design for a **remote-controlled Explosive Ordnance Disposal (EOD) robot**.
 
-![EOD Robot View 1](./docs/EOD_robot_0.jpg)
+![EOD Robot View](./docs/EOD_robot_0.jpg)
 
 The project focuses on the **mechanical architecture and CAD models**, forming a foundation for a future fully functional robotic system.
 
